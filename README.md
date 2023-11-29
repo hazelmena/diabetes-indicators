@@ -19,8 +19,8 @@ This project aims to examine diabetes indicators using data sourced from a CSV f
 - [Getting Started](#getting-started)
 - [Prerequisites](#prerequisites)
 - [Visuals](#Visuals)
+- [Conclusions](#Conclusions)
 - [Acknowledgments](#Acknowledgments)
-
 ## Getting Started
 
 To interact with and view the project's visuals, please follow these steps:
@@ -59,6 +59,7 @@ Before you begin, ensure that you have the required software and tools installed
 
 *Figure 2: This dynamic box graph illustrates the relationship between BMI and the presence or absence of diabetes. *
 
+## Conclusions ##
 
 ## Acknowledgments 
 We would like to thank our tutors for their insightful guidance and support throughout this project. Special thanks to our professor, Josh, for his valuable input. We hope you find this project as interesting as we did.
