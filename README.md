@@ -51,8 +51,12 @@ Before you begin, ensure that you have the required software and tools installed
 
 
 ## Visuals
+![Diabetes and High Blood Pressure](Visuals/Piegraph.png)
+*Figures 1:This graph depicts the correlation between high blood pressure, low blood pressure, and the presence or absence of diabetes. *
+![Interactive Graph](Visuals/InteractiveBox.gif)
 
 
+*Figures 2: This dynamic box graph illustrates the relationship between BMI and the presence or absence of diabetes. *
 
 
 ## Acknowledgments 
