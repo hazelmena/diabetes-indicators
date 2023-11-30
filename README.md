@@ -10,7 +10,7 @@ This project was created for the UNC Data Analytics Bootcamp.
 ## PowerPoint Presentation
 We have prepared a Google Slides presentation titled "Diabetes Presentation" that provides additional insights into this project.
 
-- [View Google Slides Presentation]
+- [View Google Slides Presentation] https://docs.google.com/presentation/d/1-Atw4qi0ZHmrY6DxZloFRP87QhV_FGo8ANwSjjkHPms/edit?usp=sharing
 
 
 This project aims to examine diabetes indicators using data sourced from a CSV file. The focus is on analyzing four key diabetes indicators to determine whether a higher or lower prevalence of diabetes is associated with these factors. By discerning such patterns, we can infer the likelihood of individuals developing diabetes in the future based on these specific indicators.
@@ -19,7 +19,6 @@ This project aims to examine diabetes indicators using data sourced from a CSV f
 - [Getting Started](#getting-started)
 - [Prerequisites](#prerequisites)
 - [Visuals](#Visuals)
-- [Conclusions](#Conclusions)
 - [Acknowledgments](#Acknowledgments)
 ## Getting Started
 
@@ -59,7 +58,6 @@ Before you begin, ensure that you have the required software and tools installed
 
 *Figure 2: This dynamic box graph illustrates the relationship between BMI and the presence or absence of diabetes. *
 
-## Conclusions ##
 
 ## Acknowledgments 
 We would like to thank our tutors for their insightful guidance and support throughout this project. Special thanks to our professor, Josh, for his valuable input. We hope you find this project as interesting as we did.
